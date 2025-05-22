@@ -384,6 +384,8 @@ main {
       }
     }
   }
+  .section--three {
+  }
 }
 
 @keyframes animation--one {
